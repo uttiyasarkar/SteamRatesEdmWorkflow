@@ -4,7 +4,7 @@ from hlt_config import *
 # STEAM Customization #
 
 # Options
-nEvents=-1           # number of events to process
+nEvents=100           # number of events to process
 switchL1PS=False       # apply L1 PS ratios to switch to tighter column
 columnL1PS=1           # choose the tighter column ( 0 <=> tightest )
 outputName="hlt.root"  # output file name
